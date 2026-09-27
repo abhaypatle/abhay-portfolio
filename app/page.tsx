@@ -441,7 +441,7 @@ export default function HomePage() {
               in
             </a>
             <a
-              href={resumeUrl}
+              href="/Abhay_Patle_Resume.pdf"
               download="Abhay_Rajesh_Patle_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
@@ -493,7 +493,7 @@ export default function HomePage() {
                 <ArrowDown className="h-4 w-4" />
               </Link>
               <a
-                href={resumeUrl}
+                href="/Abhay_Patle_Resume.pdf"
                 download="Abhay_Rajesh_Patle_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
