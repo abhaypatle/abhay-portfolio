@@ -72,7 +72,7 @@ const techGroups = [
   },
 ];
 
-const resumeUrl = "/Abhay_Patle_Resume.pdf";
+const resumeUrl = "/Abhay_Rajesh_Patle_Resume_2026.pdf";
 const credlyUrl = "https://www.credly.com/users/abhay-patle";
 const linkedInUrl = "https://www.linkedin.com/in/abhay-patle-9622162aa/";
 
@@ -441,7 +441,7 @@ export default function HomePage() {
               in
             </a>
             <a
-              href="/Abhay_Patle_Resume.pdf"
+              href="/Abhay_Rajesh_Patle_Resume_2026.pdf"
               download="Abhay_Rajesh_Patle_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
@@ -493,7 +493,7 @@ export default function HomePage() {
                 <ArrowDown className="h-4 w-4" />
               </Link>
               <a
-                href="/Abhay_Patle_Resume.pdf"
+                href="/Abhay_Rajesh_Patle_Resume_2026.pdf"
                 download="Abhay_Rajesh_Patle_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
